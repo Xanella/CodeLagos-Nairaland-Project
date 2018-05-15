@@ -1,0 +1,61 @@
+body {
+			text-align: center;
+			font-family: verdana, sans-serif;
+			display: block;
+			padding: 5px;
+			font-size: 14px;
+
+		}
+		header {
+			width: 1024px;
+			margin: 0px auto;
+			border: 1px solid black;
+			border-radius: 12px;
+			
+		}
+
+		section {
+			width: 1024px;
+			margin: 50px auto;
+			border: 1px solid black;
+			border-radius: 12px;
+		}
+
+		footer {
+			padding-bottom: 10px;
+			font-size: 12px;
+		}
+
+		.image {
+			margin-right: 1%;
+			height: 50px;
+			width: 50px;
+			padding-bottom: 50px;
+			padding-top: 10px;
+		}
+
+		.title {
+			border-bottom: 1px solid black;
+			padding: 0px;
+			margin: 0px;
+			
+			
+		}
+		.center {
+			border-bottom: 1px solid black;
+			padding: 20px, 10px;
+			
+		}
+		.end {
+			text-align: 
+
+		}
+
+		.link {
+			margin-left: 70px;
+		}
+
+		.alone {
+
+			text-decoration: underline;
+		}
